@@ -186,4 +186,8 @@ a.nav-link:hover {
   #google {
     height: 60vh !important;
   }
+
+  #contact * {
+    font-size: 1rem;
+  }
 }
